@@ -5,11 +5,11 @@ Just a little project. I made this for fun a few time ago while learning Pygame.
 
 Controls:
 
-  -In menu:
-    -Arrows: Left or Right
-    -Enter: Accept
+  - In menu:
+    - Arrows: Left or Right
+    - Enter: Accept
     
-  -In game:
-    -Mouse: Click to make your move
-    -Enter: Press to play a new game when the actual game is done
+  - In game:
+    - Mouse: Click to make your move
+    - Enter: Press to play a new game when the actual game is done
     
