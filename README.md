@@ -13,3 +13,5 @@ Controls:
     - Mouse: Click to make your move
     - Enter: Press to play a new game when the actual game is done
     
+## Screenshot
+![Screenshot](./Tic-Tac-Toe.png)
